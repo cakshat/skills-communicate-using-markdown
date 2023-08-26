@@ -17,3 +17,9 @@ int main(){
   else cout << "We have problem";
 }
 ```
+### task list
+
+- [x] Do homework
+- [ ] Study Hard
+- [ ] Get A in 18-763
+- [ ] Live happiliy ever after
